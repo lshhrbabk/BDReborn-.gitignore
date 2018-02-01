@@ -1,0 +1,2 @@
+# BDReborn-.gitignore
+tackparBDRebon
